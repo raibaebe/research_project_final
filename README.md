@@ -67,7 +67,7 @@ Press **q** or **ESC** to quit.
 ### Predict (image)
 
 ```bash
-python main.py predict-image path/to/image.png
+python  main.py predict-image path/to/image.png
 ```
 
 ### Collect webcam data
